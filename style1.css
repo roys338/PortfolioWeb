@@ -115,34 +115,3 @@
   position: relative;
   background-position: center;
 }
-
-.navbar {
-  overflow: hidden;
-  background-color: #7e7e7e;
-  position:fixed;
-  bottom: -5px;
-  width: 100%;
-  font-weight: 600;
-  padding: bottom 1px;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  z-index: 0;
-}
-
-.navbar a {
-  float: left;
-  display: block;
-  color: aliceblue;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.navbar p {
-  color: aliceblue;
-}
-
-.navbar a.active {
-  background-color: #7e7e7e;
-  color: aliceblue;
-}
